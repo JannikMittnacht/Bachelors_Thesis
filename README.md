@@ -2,7 +2,7 @@
 
 This repository contains the complete computational framework developed for my Bachelor's thesis in Mathematics at Albert-Ludwigs-Universität Freiburg, conducted in collaboration with the **Kiepenheuer Institute for Solar Physics (KIS)**. 
 
-The project focuses on solving magnetohydrostatic (MHS) equilibrium equations using custom finite difference schemes to model solar atmospheres (Quiet Sun vs. Sunspots/Umbra) and quantify the **Wilson Depression**.
+The project focuses on solving magnetohydrostatic (MHS) equilibrium equations using finite difference schemes to model solar atmospheres (Quiet Sun vs. Sunspots/Umbra) and quantify the **Wilson Depression**.
 
 ---
 
