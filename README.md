@@ -32,3 +32,20 @@ The codebase is structured into modular components separating core numerical alg
 ├── Berechnung_25_6.py       # Analytical/dynamic temperature profiling & 1D MHS solver
 ├── MHD_4.py                 # 3D MHD binary data processing and spatial analysis
 └── README.md                # Project documentation
+
+---
+
+## Requirements
+
+The codebase requires a standard scientific Python stack:
+* **Python 3.x**
+* **NumPy**
+* **SciPy** (specifically `scipy.integrate` and `scipy.io.FortranFile`)
+* **Matplotlib**
+
+---
+
+## Author
+
+**Jannik Alexander Mittnacht**  
+[GitHub Profile](https://github.com/JannikMittnacht)
