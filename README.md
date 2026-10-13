@@ -78,6 +78,12 @@ The codebase requires a standard scientific Python stack:
 
 ---
 
+## Acknowledgments
+
+* **Continuum Opacity Calculations (`cont_opac`):** The routines for calculating continuous opacities were provided by [Andreu](https://andreuva.com/cv.html) as part of the research collaboration at the Kiepenheuer Institute for Solar Physics (KIS). All custom numerical solvers, FDM stencils, and MHD data processing pipelines were developed independently.
+
+---
+
 ## Author
 
 **Jannik Alexander Mittnacht**  
